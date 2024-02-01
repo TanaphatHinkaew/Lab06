@@ -8,7 +8,7 @@ public class Lesson {
 
         //HINT1: usage arraylist with Shape class to store all of your shapes, check how to use arrayList by yourself
 
-        //HINT2: you may want to declare your arrayList here
+        //HINT2: you may want to declare your arrayList around here
 
         Scanner in = new Scanner(System.in);
 
